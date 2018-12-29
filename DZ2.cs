@@ -29,7 +29,7 @@ namespace DZ2
             //3.	Дано расстояние в сантиметрах. Найти число полных метров в нем.
             //Console.WriteLine("Введите расстояния в сантиметрах: ");
             //int distance = int.Parse(Console.ReadLine());
-            //var metr = distance * 0.01;
+            //int metr = distance /100;
             //Console.Write("Полных метров в сантиметрах: " + metr);
             //Console.Read();
             //4.	С некоторого момента прошло 234 дня. Сколько полных недель прошло за этот период?
