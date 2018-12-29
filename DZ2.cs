@@ -92,7 +92,9 @@ namespace DZ2
             //Console.WriteLine("Введите сторону квадрата");
             //var a = int.Parse(Console.ReadLine());
             //var SKrug = Math.PI * (R * R);
+            //Console.WriteLine("Площадь круга: " + SKrug);
             //var SKvadrat = a * a;
+            //Console.WriteLine("Площадь квадрата: " + SKvadrat);
             //if (SKrug > SKvadrat)
             //{
             //    Console.WriteLine("Площадь круга больше площади квадрата");
